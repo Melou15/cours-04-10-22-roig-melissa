@@ -1,0 +1,7 @@
+tableaux.txt
+
+ex1:
+
+const hobbies = ['musique', 'danse', 'jumping'];
+console.log(hobbies);
+
