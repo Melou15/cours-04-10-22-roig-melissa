@@ -5,3 +5,8 @@ ex1:
 const hobbies = ['musique', 'danse', 'jumping'];
 console.log(hobbies);
 
+ex2 :
+const famousSayings = ['Fortune favors the brave.', 'A joke is a very serious thing.', 'Where there is love there is life.'];
+
+const listItem = famousSayings[0];
+  console.log(famousSayings[3]);
